@@ -1,0 +1,19 @@
+{
+  "name": "story-book",
+  "version": "1.0.0",
+  "description": "App to create public and privet stories",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lionwalker/story-book.git"
+  },
+  "author": "Lahiru Madusanka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lionwalker/story-book/issues"
+  },
+  "homepage": "https://github.com/lionwalker/story-book#readme"
+}
