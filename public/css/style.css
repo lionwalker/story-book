@@ -1,0 +1,15 @@
+p {
+    margin: 10px 0 !important;
+}
+
+.login-container {
+    width: 400px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.fa-small {
+    font-size: 36px !important;
+    padding: 2px !important;
+    text-align: center !important;
+}
