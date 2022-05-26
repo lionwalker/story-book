@@ -13,3 +13,12 @@ p {
     padding: 2px !important;
     text-align: center !important;
 }
+
+.btn-float {
+    float: left;
+    margin-right: 10px;
+}
+
+.img-small {
+    width: 180px;
+}
